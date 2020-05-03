@@ -1,0 +1,9 @@
+FileName;Group;Genotype;Treatment;ShortName
+GSM3744179_WT_1.CEL;WT_ntBmdms;WT;Not-treated;wt_nt.1
+GSM3744180_WT_2.CEL;WT_ntBmdms;WT;Not-treated;wt_nt.2
+GSM3744181_WT_LPS_1.CEL;WT_Bmdms;WT;LPS;wt.1
+GSM3744182_WT_LPS_2.CEL;WT_Bmdms;WT;LPS;wt.2
+GSM3744183_aKO_1.CEL;aKO_ntBmdms;aKO;Not-treated;ako_nt.1
+GSM3744184_aKO_2.CEL;aKO_ntBmdms;aKO;Not-treated;ako_nt.2
+GSM3744185_aKO_LPS_1.CEL;aKO_Bmdms;aKO;LPS;ako.1
+GSM3744186_aKO_LPS_2.CEL;aKO_Bmdms;aKO;LPS;ako.2
